@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">this will start a service that makes android sad!</string>
+    <string name="app_name">kill-bot</string>
+</resources>
